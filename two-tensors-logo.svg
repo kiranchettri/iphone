@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs>
+  <linearGradient id="topGridGradient" gradientUnits="userSpaceOnUse" x1="206.475" y1="553.587" x2="750.900" y2="250.287">
+    <stop offset="0%" stop-color="#3B9FDC"/>
+    <stop offset="100%" stop-color="#5BCEFB"/>
+  </linearGradient>
+</defs>
+<line x1="206.475" y1="553.362" x2="336.675" y2="553.438" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="336.675" y1="553.438" x2="466.875" y2="553.512" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="466.875" y1="553.512" x2="597.075" y2="553.587" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="257.750" y1="452.337" x2="387.950" y2="452.413" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="387.950" y1="452.413" x2="518.150" y2="452.487" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="518.150" y1="452.487" x2="648.350" y2="452.562" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="309.025" y1="351.312" x2="439.225" y2="351.387" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="439.225" y1="351.387" x2="569.425" y2="351.462" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="569.425" y1="351.462" x2="699.625" y2="351.537" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="360.300" y1="250.287" x2="490.500" y2="250.362" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="490.500" y1="250.362" x2="620.700" y2="250.437" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="620.700" y1="250.437" x2="750.900" y2="250.512" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="206.475" y1="553.362" x2="257.750" y2="452.337" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="257.750" y1="452.337" x2="309.025" y2="351.312" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="309.025" y1="351.312" x2="360.300" y2="250.287" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="336.675" y1="553.438" x2="387.950" y2="452.413" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="387.950" y1="452.413" x2="439.225" y2="351.387" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="439.225" y1="351.387" x2="490.500" y2="250.362" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="466.875" y1="553.512" x2="518.150" y2="452.487" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="518.150" y1="452.487" x2="569.425" y2="351.462" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="569.425" y1="351.462" x2="620.700" y2="250.437" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="597.075" y1="553.587" x2="648.350" y2="452.562" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="648.350" y1="452.562" x2="699.625" y2="351.537" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="699.625" y1="351.537" x2="750.900" y2="250.512" stroke="url(#topGridGradient)" stroke-width="17.625" stroke-linecap="round" />
+<line x1="270.250" y1="711.550" x2="403.250" y2="711.850" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="321.500" y1="612.675" x2="454.500" y2="612.975" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="403.250" y1="711.850" x2="536.250" y2="712.150" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="454.500" y1="612.975" x2="587.500" y2="613.275" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="536.250" y1="712.150" x2="669.250" y2="712.450" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="587.500" y1="613.275" x2="720.500" y2="613.575" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="270.250" y1="711.550" x2="321.500" y2="612.675" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="403.250" y1="711.850" x2="454.500" y2="612.975" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="536.250" y1="712.150" x2="587.500" y2="613.275" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="669.250" y1="712.450" x2="720.500" y2="613.575" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="720.500" y1="613.575" x2="770.625" y2="515.575" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="770.625" y1="515.575" x2="820.750" y2="417.575" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="700.000" y1="418.200" x2="820.750" y2="417.575" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<line x1="650.125" y1="517.825" x2="770.625" y2="515.575" stroke="#1F5488" stroke-width="16.750" stroke-linecap="round" />
+<circle cx="206.475" cy="553.362" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="257.750" cy="452.337" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="309.025" cy="351.312" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="360.300" cy="250.287" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="336.675" cy="553.438" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="387.950" cy="452.413" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="439.225" cy="351.387" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="490.500" cy="250.362" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="466.875" cy="553.512" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="518.150" cy="452.487" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="569.425" cy="351.462" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="620.700" cy="250.437" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="597.075" cy="553.587" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="648.350" cy="452.562" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="699.625" cy="351.537" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="750.900" cy="250.512" r="21.875" fill="url(#topGridGradient)" />
+<circle cx="270.250" cy="711.550" r="22.125" fill="#1F5488" />
+<circle cx="321.500" cy="612.675" r="22.125" fill="#1F5488" />
+<circle cx="403.250" cy="711.850" r="22.125" fill="#1F5488" />
+<circle cx="454.500" cy="612.975" r="22.125" fill="#1F5488" />
+<circle cx="536.250" cy="712.150" r="22.125" fill="#1F5488" />
+<circle cx="587.500" cy="613.275" r="22.125" fill="#1F5488" />
+<circle cx="669.250" cy="712.450" r="22.125" fill="#1F5488" />
+<circle cx="720.500" cy="613.575" r="22.125" fill="#1F5488" />
+<circle cx="770.625" cy="515.575" r="22.125" fill="#1F5488" />
+<circle cx="820.750" cy="417.575" r="22.125" fill="#1F5488" />
+</svg>
